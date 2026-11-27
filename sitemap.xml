@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CineBox sitemap. Replace https://cinebox.io with your deployed domain.
+     Note: hash routes (#/home, #/movies, ...) are not separate documents,
+     so only the app entry point is listed. If you later prerender routes,
+     add one <url> per prerendered page. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cinebox.io/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

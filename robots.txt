@@ -1,0 +1,7 @@
+# CineBox — https://cinebox.io/
+# Replace the domain below with your real host if you deploy elsewhere.
+User-agent: *
+Allow: /
+# Hash-routed app: the SPA entry is the only crawlable document today.
+Disallow: /assets/vendor/
+Sitemap: https://cinebox.io/sitemap.xml
